@@ -12,6 +12,7 @@ import java.util.List;
 
 /**
  * Created by mac on 30/08/18.
+ * Check out by Nikhil
  */
 
 public class DogAdapter extends RecyclerView.Adapter<DogAdapter.ViewHolder> {
